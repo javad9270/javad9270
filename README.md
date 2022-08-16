@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javad9270
+- 👋 Hi, I’m Javad.
 - 👀 I’m interested in c++, node-js, mongodb, e-commerce system design and development.
 - 🌱 I’m currently learning data science and machine learning.
 - 💞️ I’m looking to collaborate on e-commerce platform development.
